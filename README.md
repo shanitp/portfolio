@@ -26,12 +26,8 @@ Push your branch:
 git push origin cool-new-feature
 Open a Pull Request, and we’ll collaborate!
 
-Contact 
-
-If you have any questions or feedback about my portfolio, feel free to reach out to me: 
+📞 Contact Me
+Got feedback or questions? I’d love to hear from you!
 
 Email: shanitp008@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/shani-tp/
-
-Feel free to customize this template with your specific details and preferences. Good luck with your portfolio!
+LinkedIn: linkedin.com/in/shani-tp
