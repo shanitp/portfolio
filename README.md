@@ -25,3 +25,13 @@ git commit -m "Add cool new feature"
 Push your branch:
 git push origin cool-new-feature
 Open a Pull Request, and we’ll collaborate!
+
+Contact 
+
+If you have any questions or feedback about my portfolio, feel free to reach out to me: 
+
+Email: shanitp008@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/shani-tp/
+
+Feel free to customize this template with your specific details and preferences. Good luck with your portfolio!
