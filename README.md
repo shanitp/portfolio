@@ -1,37 +1,72 @@
-🚀 Welcome to My Portfolio! 🌟
-This is the code behind my personal portfolio website, where I showcase my work, skills, and experiences in a fun and interactive way. Dive in and explore what I’ve been up to!
+# Personal Portfolio 🔥
+> https://shanitp.github.io/portfolio/
 
-✨ About This Portfolio
-I built this portfolio using HTML, CSS, and JavaScript, designed to bring my projects and expertise to life in a sleek, visually engaging format. It’s more than just a website—it's a reflection of my journey and passion for development!
+:star: Star me on GitHub — it helps!
 
-🌟 Features
-💼 Project Showcase: A dynamic gallery of my best projects, each with detailed descriptions, links to live demos, and source code.
-💻 Skills Section: A curated list of my technical skills, from front-end wizardry to back-end sorcery!
-🙋 About Me: Learn about my background, passions, and career path—find out who I am beyond the code.
-📬 Contact: Get in touch with me through a simple and interactive contact form.
-🎮 How to Use
-View It Live: Clone the repo and open index.html in your favorite web browser.
-Explore: Navigate through the sections to see my work, read about my skills, and get a sense of my journey.
-Interact: Hover, click, and scroll—each section is designed to engage and inform.
-💡 Development & Contributions
-Want to make this portfolio even better? Feel free to fork the repository, suggest improvements, or even add some cool new features! I'm always open to ideas and collaborations.
+### Website Preview
+#### Home Page
+<img src="website_images/HomePage.gif" width="900">
 
-⚙️ How to Contribute:
-Fork this repository.
-Create a branch for your feature or bug fix:
-git checkout -b cool-new-feature
-Commit your changes:
-git commit -m "Add cool new feature"
-Push your branch:
-git push origin cool-new-feature
-Open a Pull Request, and we’ll collaborate!
 
-Contact 
+#### About Page
+<img src="website_images/AboutPage.png" width="900">
 
-If you have any questions or feedback about my portfolio, feel free to reach out to me: 
 
-Email: shanitp008@gmail.com
+#### Projects Page
+<img src="website_images/ProjectPage.png" width="900">
+  
 
-LinkedIn: https://www.linkedin.com/in/shani-tp/
 
-Feel free to customize this template with your specific details and preferences. Good luck with your portfolio!
+:star: Star me on GitHub — it helps!
+
+## Features 📋
+⚡️ Fully Responsive\
+⚡️ Valid HTML5 & CSS3\
+⚡️ Typing animation using `Typed.js`\
+⚡️ Easy to modify
+
+## Installation & Deployment 📦
+- Clone the repository and modify the content of <b>index.html</b> 
+- Add or remove images from `assets/img/` directory as per your requirement.
+- Update the info of `projects` folder according to your need
+- Use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to create your own website.
+- To deploy your website, first you need to create github repository with name `<your-github-username>.github.io` and push the generated code to the `master` branch.
+
+## Sections 📚
+✔️ About\
+✔️ Interests\
+✔️ Education\
+✔️ Online Certification\
+✔️ Experience\
+✔️ Projects \
+✔️ Skills \
+✔️ Resume\
+✔️ Contact Info
+
+
+
+## Tools Used 🛠️
+* <b>GitHub Pages</b> - To host my static website (HTML, CSS, JS).
+
+## Contributing 💡
+#### Step 1
+
+- **Option 1**
+    - 🍴 Fork this repo!
+
+- **Option 2**
+    - 👯 Clone this repo to your local machine.
+
+
+#### Step 2
+
+- **Build your code** 🔨🔨🔨
+
+#### Step 3
+
+- 🔃 Create a new pull request.
+
+## License
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
