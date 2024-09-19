@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Portfolio 
 
 Welcome to my portfolio repository! This repository hosts my personal portfolio website showcasing my projects, skills, and experiences. 
@@ -26,12 +25,8 @@ Contact
 
 If you have any questions or feedback about my portfolio, feel free to reach out to me: 
 
-Email: sushithks@gmail.com
+Email: shanitp008@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/sushith-suthan-0aa5b2155/
+LinkedIn: https://www.linkedin.com/in/shani-tp/
 
 Feel free to customize this template with your specific details and preferences. Good luck with your portfolio!
-=======
-# portfolio
-shani-portfolio
->>>>>>> d23aa255457c9bdf261462b9f65cc4e56a8416c9
